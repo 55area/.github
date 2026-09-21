@@ -15,15 +15,17 @@ I'm starting development on a few apps and decided to embrace crowdsourcing (and
 
 ![Castas Banner](https://raw.githubusercontent.com/55area/.github/main/assets/castas-banner.jpeg)
 
-The idea behind this app is quite simple: assess people's level of affective polarization through a simple online questionnaire. It's still in the research and detailing phase.
+The idea behind this app is quite simple: assess people's level of affective polarization through a simple online questionnaire. The project is now complete and available to explore and test online.
 
-This isn't something I'm doing to make money as a SaaS, or to influence this year's election (2026). It's simply a project to test AI's ability to generate a complete website using interactive and incremental specifications ([Spec Driven Development](https://openspec.dev/)) through [Vibe Engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/).
+This isn't something I did to make money as a SaaS, or to influence this year's election (2026). It's simply a project to test AI's ability to generate a complete website using interactive and incremental specifications ([Spec Driven Development](https://openspec.dev/)) through [Vibe Engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/).
+
+<br />
 
 ## 🐝&nbsp; [Yo! Fi](https://www.yo-fi.net/) • Mobile Application
 
 ![Yo! Fi Banner](https://raw.githubusercontent.com/55area/.github/main/assets/yo-fi-banner.jpeg)
 
-Platform for sharing Wi-Fi access between individuals and businesses, and transferring messages via Wi-Fi.
+Platform for sharing Wi-Fi access between individuals and businesses, and transferring messages via Wi-Fi. It's still in the research and detailing phase.
 
 <br />
 
