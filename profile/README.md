@@ -21,13 +21,13 @@ This isn't something I did to make money as a SaaS, or to influence this year's 
 
 <br />
 
-## 📊&nbsp; [NeoBasic](https://www.neobasic.org/) • AI Development Census
+## 📊&nbsp; [Census](https://www.census.com/) • AI Development Census
 
-![NeoBasic Banner](https://raw.githubusercontent.com/55area/.github/main/assets/neobasic-banner.jpeg)
+![Census Banner](https://raw.githubusercontent.com/55area/.github/main/assets/census-banner.jpeg)
 
-NeoBasic is the open census of AI tools in software development. It collects anonymous, aggregated information about the AI tools and development technologies used by developers around the world, based on data voluntarily shared from real-world software projects and active repositories. The platform identifies which tools are being used, the technologies they are used alongside, and the types of projects in which they appear, creating a continuously evolving picture of how software is developed today.
+The open census of AI tools in software development. It collects anonymous, aggregated information about the AI tools and development technologies used by developers around the world, based on data voluntarily shared from real-world software projects and active repositories. The platform identifies which tools are being used, the technologies they are used alongside, and the types of projects in which they appear, creating a continuously evolving picture of how software is developed today.
 
-By mapping this development landscape, NeoBasic turns distributed, anonymous project data into meaningful insights about the adoption and use of AI tools across the global developer community. The goal is to provide an open, data-driven view of the technologies shaping modern software development, helping developers discover the tools and practices being used across different projects, technologies, and regions while contributing to a shared understanding of the future of code.
+By mapping this development landscape, Census turns distributed, anonymous project data into meaningful insights about the adoption and use of AI tools across the global developer community. The goal is to provide an open, data-driven view of the technologies shaping modern software development, helping developers discover the tools and practices being used across different projects, technologies, and regions while contributing to a shared understanding of the future of code.
 
 
 <br />
