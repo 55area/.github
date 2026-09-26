@@ -7,7 +7,7 @@
 
 If you enjoy the indie hacker lifestyle and prefer going solo, that's totally fine. But if you're not really into it and have started feeling discouraged by working alone — no one to interact with, no motivation to explain everything again to your [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging) — then being part of a squad might help.
 
-I'm starting development on a few apps and decided to embrace crowdsourcing (and AI). In case anyone feels like joining in, I created this GitHub organization. The doors are open to anyone tired of coding alone who wants to be part of a dev community.
+I'm starting development on a few apps and have decided to embrace crowdsourcing (and AI). In case anyone feels like joining in, I created this GitHub organization. The doors are open to anyone tired of coding alone who wants to be part of a dev community.
 
 <p align="right">✆ <a href="https://wa.me/teknolista">WhatsApp</a> | <a href="https://t.me/teknolista">Telegram</a></p>
 
@@ -17,7 +17,7 @@ I'm starting development on a few apps and decided to embrace crowdsourcing (and
 
 The idea behind this app is quite simple: assess people's level of affective polarization through a simple online questionnaire. The project is now complete and available to explore and test online.
 
-This isn't something I did to make money as a SaaS, or to influence this year's election (2026). It's simply a project to test AI's ability to generate a complete website using interactive and incremental specifications ([Spec Driven Development](https://openspec.dev/)) through [Vibe Engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/).
+This isn't something I did to make money as a SaaS, or to influence this year's elections in Brazil (2026). It's simply a project to test AI's ability to generate a complete website using interactive and incremental specifications ([Spec Driven Development](https://openspec.dev/)) through [Vibe Engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/).
 
 <br />
 
