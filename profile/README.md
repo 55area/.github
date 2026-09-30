@@ -21,7 +21,7 @@ This isn't something I did to make money as a SaaS, or to influence this year's 
 
 <br />
 
-## 🐝&nbsp; [Yo!Fi](https://www.yo-fi.net/) • Mobile Application
+## 🐝&nbsp; [Yo!Fi](https://www.yo-fi.net/) • Friendly Wi-Fi!
 
 ![Yo!Fi Banner](https://raw.githubusercontent.com/55area/.github/main/assets/yofi-banner.jpeg)
 
