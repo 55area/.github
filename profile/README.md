@@ -21,14 +21,13 @@ This isn't something I did to make money as a SaaS, or to influence this year's 
 
 <br />
 
-## 📊&nbsp; [Census](https://www.census.com/) • AI Development Census
+## 🐝&nbsp; [Yo!Fi](https://www.yo-fi.net/) • Mobile Application
 
-![Census Banner](https://raw.githubusercontent.com/55area/.github/main/assets/census-banner.jpeg)
+![Yo!Fi Banner](https://raw.githubusercontent.com/55area/.github/main/assets/yofi-banner.jpeg)
 
-The open census of AI tools in software development. It collects anonymous, aggregated information about the AI tools and development technologies used by developers around the world, based on data voluntarily shared from real-world software projects and active repositories. The platform identifies which tools are being used, the technologies they are used alongside, and the types of projects in which they appear, creating a continuously evolving picture of how software is developed today.
+Yo!Fi is a community-powered Wi-Fi sharing platform designed to make connectivity more accessible, local, and collaborative. It brings together people who need internet access and those willing to share their Wi-Fi hotspots, creating a simple network built around community participation and shared connectivity.
 
-By mapping this development landscape, Census turns distributed, anonymous project data into meaningful insights about the adoption and use of AI tools across the global developer community. The goal is to provide an open, data-driven view of the technologies shaping modern software development, helping developers discover the tools and practices being used across different projects, technologies, and regions while contributing to a shared understanding of the future of code.
-
+Designed with privacy, security, and radical simplicity in mind, Yo!Fi aims to provide a reliable and approachable experience across mobile and web environments. Its long-term vision is to help build a more decentralized connectivity ecosystem—one hotspot, one connection, and one community at a time.
 
 <br />
 
