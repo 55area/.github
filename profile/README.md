@@ -22,7 +22,7 @@ Isso não é algo que fiz para ganhar dinheiro como SaaS, nem para influenciar a
 
 <br />
 
-## 🐝&nbsp; [Yo-Fi](https://www.yo-fi.net/) • Bate-papo Online via Wi-Fi
+## 🐝&nbsp; [Yo-Fi](https://github.com/55area/yofi-android) • Bate-papo Online via Wi-Fi
 
 ![Yo-Fi Banner](https://raw.githubusercontent.com/55area/.github/main/assets/yofi-banner.jpeg)
 
