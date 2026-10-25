@@ -1,4 +1,4 @@
-![Area +55 banner](https://raw.githubusercontent.com/area55brasil/.github/main/assets/profile-banner_pt.jpeg)
+![Area +55 banner](https://raw.githubusercontent.com/55area/.github/main/assets/profile-banner_pt.jpeg)
 
 > "Coisas incríveis nunca são feitas por uma única pessoa. São feitas por uma equipe."
 > 
@@ -32,10 +32,10 @@ Projetado com foco em privacidade, segurança e simplicidade, o Yo-Fi visa ofere
 
 <br />
 
-<h4 align="right">:vulcan_salute:&nbsp; Code em Paz.</h4>
+<h4 align="right">:vulcan_salute:&nbsp; Code Long in Peace.</h4>
 
 - - -
 
 > "A única felicidade da vida está na consciência de ter realizado algo útil em benefício da comunidade."
 > 
-> — <a href="https://en.wikipedia.org/wiki/Vital_Brazil">Vital Brasil</a>
+> — <a href="https://pt.wikipedia.org/wiki/Vital_Brazil">Vital Brasil</a>
