@@ -1,0 +1,40 @@
+> "Amazing things are never done by a single person. They're done by a team."
+> 
+> — <a href="https://en.wikipedia.org/wiki/Steve_Jobs">Steve Jobs</a>
+
+
+## 🤗&nbsp; Welcome to Area +55 🇧🇷
+
+If you enjoy the indie hacker lifestyle and prefer going solo, that's totally fine. But if you're not really into it and have started feeling discouraged by working alone — no one to interact with, no motivation to explain everything again to your [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging) — then being part of a squad might help.
+
+I'm starting development on a few apps and have decided to embrace crowdsourcing (and AI). In case anyone feels like joining in, I created this GitHub organization. The doors are open to anyone tired of coding alone who wants to be part of a dev community.
+
+<p align="right">✆ <a href="https://wa.me/teknolista">WhatsApp</a> | <a href="https://t.me/teknolista">Telegram</a></p>
+
+## 🤬&nbsp; [Castas](https://www.castas.top/) • Affective Polarization Test
+
+![Castas Banner](https://raw.githubusercontent.com/55area/.github/main/assets/castas-banner.jpeg)
+
+The idea behind this app is quite simple: assess people's level of affective polarization through a simple online questionnaire. The project is now complete and available to explore and test online.
+
+This isn't something I did to make money as a SaaS, or to influence this year's elections in Brazil (2026). It's simply a project to test AI's ability to generate a complete website using interactive and incremental specifications ([Spec Driven Development](https://openspec.dev/)) through [Vibe Engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/).
+
+<br />
+
+## 🐝&nbsp; [Yo-Fi](https://www.yo-fi.net/) • Friendly Wi-Fi!
+
+![Yo-Fi Banner](https://raw.githubusercontent.com/55area/.github/main/assets/yofi-banner.jpeg)
+
+Yo-Fi is a community-powered Wi-Fi sharing platform designed to make connectivity more accessible, local, and collaborative. It brings together people who need internet access and those willing to share their Wi-Fi hotspots, creating a simple network built around community participation and shared connectivity.
+
+Designed with privacy, security, and radical simplicity in mind, Yo-Fi aims to provide a reliable and approachable experience across mobile and web environments. Its long-term vision is to help build a more decentralized connectivity ecosystem—one hotspot, one connection, and one community at a time.
+
+<br />
+
+<h4 align="right">:vulcan_salute:&nbsp; Code Long in Peace.</h4>
+
+- - -
+
+> "The only happiness in life lies in the awareness of having accomplished something useful for the benefit of the community."
+> 
+> — <a href="https://en.wikipedia.org/wiki/Vital_Brazil">Vital Brasil</a>
