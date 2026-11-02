@@ -10,7 +10,7 @@ Decidi iniciar um projeto pessoal de longo prazo para desenvolver meus próprios
 Estou utilizando inteligência artificial para acelerar o desenvolvimento e técnicas de engenharia reversa em sala limpa (*clean room*) para entender como certas funcionalidades operam e criar implementações independentes, sem copiar o código original. A ideia não é substituir tudo de uma vez, mas seguir um plano gradual: escolher um aplicativo por vez, estudar suas funcionalidades, desenvolver uma alternativa, testá-la e, quando estiver funcionando bem, passar para o próximo. Quero criar aplicativos mais simples, transparentes e seguros, que coletem apenas os dados realmente necessários. É um projeto que pretendo construir aos poucos, no meu ritmo, aprendendo e aperfeiçoando cada solução ao longo do caminho, com o objetivo de conquistar cada vez mais autonomia, privacidade e controle sobre o que acontece no meu próprio celular.
 
 
-## 🤬&nbsp; [Castas](https://www.castas.top/) • Teste de Polarização Político/Afetiva
+## 🤬&nbsp; [Castas](https://github.com/55area/castas-android) • Teste de Polarização Político/Afetiva
 
 ![Castas Banner](https://raw.githubusercontent.com/55area/.github/main/assets/castas-banner.jpeg)
 
