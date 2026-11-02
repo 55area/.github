@@ -1,16 +1,14 @@
 ![Area +55 banner](https://raw.githubusercontent.com/55area/.github/main/assets/profile-banner_pt.jpeg)
 
-> "Coisas incríveis nunca são feitas por uma única pessoa. São feitas por uma equipe."
-> 
-> — <a href="https://pt.wikipedia.org/wiki/Steve_Jobs">Steve Jobs</a>
+<p align="right">✆ <a href="https://wa.me/teknolista">WhatsApp</a> | <a href="https://t.me/teknolista">Telegram</a></p>
+
 
 ## 🤗&nbsp; Bem-vindo à Área +55 🇧🇷
 
-Se você curte a vida de indie hacker e prefere estar dev solo, blz. Mas se não curte muito, e começou a ficar desanimado por trabalhar sozinho, sem ninguém pra interagir, sem ânimo pra explicar tudo de novo pro seu [ruber-duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging), então fazer parte de uma squad pode ajudar.
+Decidi iniciar um projeto pessoal de longo prazo para desenvolver meus próprios aplicativos Android e, gradualmente, substituir os aplicativos que já vêm instalados no celular. Minha principal motivação é a crescente preocupação com a privacidade. As grandes empresas de tecnologia, as chamadas *Big Techs*, parecem cada vez mais ávidas por novos conteúdos e dados, rastreando tudo o que conseguem sobre nossas atividades, hábitos, localização e preferências, muitas vezes sem o devido respeito à privacidade dos usuários. Tenho a impressão de que estamos perdendo cada vez mais o controle sobre nossas próprias informações.
 
-Estou iniciando o desenvolvimento de alguns aplicativos, e decidi abraçar o crowdsourcing (e também a IA). Para o caso de alguém animar participar, criei esta organização no GitHub. As portas estão abertas para quem já está cansado de codar sozinho e quiser fazer parte de uma comunidade de devs.
+Estou utilizando inteligência artificial para acelerar o desenvolvimento e técnicas de engenharia reversa em sala limpa (*clean room*) para entender como certas funcionalidades operam e criar implementações independentes, sem copiar o código original. A ideia não é substituir tudo de uma vez, mas seguir um plano gradual: escolher um aplicativo por vez, estudar suas funcionalidades, desenvolver uma alternativa, testá-la e, quando estiver funcionando bem, passar para o próximo. Quero criar aplicativos mais simples, transparentes e seguros, que coletem apenas os dados realmente necessários. É um projeto que pretendo construir aos poucos, no meu ritmo, aprendendo e aperfeiçoando cada solução ao longo do caminho, com o objetivo de conquistar cada vez mais autonomia, privacidade e controle sobre o que acontece no meu próprio celular.
 
-<p align="right">✆ <a href="https://wa.me/teknolista">WhatsApp</a> | <a href="https://t.me/teknolista">Telegram</a></p>
 
 ## 🤬&nbsp; [Castas](https://www.castas.top/) • Teste de Polarização Político/Afetiva
 
@@ -26,9 +24,9 @@ Isso não é algo que fiz para ganhar dinheiro como SaaS, nem para influenciar a
 
 ![Yo-Fi Banner](https://raw.githubusercontent.com/55area/.github/main/assets/yofi-banner.jpeg)
 
-Yo-Fi é uma plataforma de compartilhamento de Wi‑Fi movida pela comunidade, criada para tornar a conectividade mais acessível, local e colaborativa. Ela reúne pessoas que precisam de acesso à internet e aquelas dispostas a compartilhar seus pontos de acesso Wi‑Fi, criando uma rede simples baseada na participação da comunidade e na conectividade compartilhada.
+Yo-Fi é um aplicativo de comunicação por Wi-Fi que permite trocar mensagens em tempo real e compartilhar arquivos diretamente entre dispositivos conectados à mesma rede. Criado para tornar a comunicação mais simples, privada e acessível, o Yo-Fi permite que as pessoas conversem e compartilhem conteúdos sem depender de uma conexão com a internet ou de servidores externos, mantendo o controle sobre suas próprias informações.
 
-Projetado com foco em privacidade, segurança e simplicidade, o Yo-Fi visa oferecer uma experiência confiável e acessível em ambientes mobile e web. Sua visão de longo prazo é ajudar a construir um ecossistema de conectividade mais descentralizado — um ponto de acesso, uma conexão e uma comunidade por vez.
+Desenvolvido com foco em privacidade, segurança e simplicidade, o Yo-Fi busca oferecer uma experiência de comunicação rápida, intuitiva e confiável em dispositivos móveis. Sua visão de longo prazo é construir uma alternativa de comunicação mais livre e descentralizada, na qual as pessoas possam se conectar diretamente, compartilhar informações com segurança e preservar sua privacidade, uma conexão de cada vez.
 
 <br />
 
