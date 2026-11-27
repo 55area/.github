@@ -5,7 +5,7 @@
 
 ## 🤗&nbsp; Bem-vindo à Área +55 🇧🇷
 
-Decidi iniciar um projeto pessoal de longo prazo para desenvolver meus próprios aplicativos Android e, gradualmente, substituir os aplicativos que já vêm instalados no celular. As grandes empresas de tecnologia parecem cada vez mais ávidas por novos conteúdos e dados, rastreando tudo o que conseguem sobre nossas atividades, hábitos, localização e preferências, sem o devido respeito à privacidade de seus usuários.
+Decidi iniciar esse projeto pessoal de longo prazo para desenvolver meus próprios aplicativos Android e, gradualmente, substituir os aplicativos que já vêm instalados no celular. As grandes empresas de tecnologia parecem cada vez mais ávidas por novos conteúdos e dados, rastreando tudo o que conseguem sobre nossas atividades, hábitos, localização e preferências, sem o devido respeito à privacidade de seus usuários.
 
 A ideia não é substituir tudo de uma vez, mas seguir um plano gradual: escolher um aplicativo por vez, estudar suas funcionalidades, desenvolver uma alternativa, testá-la e, quando estiver funcionando bem, passar para o próximo. Quero criar aplicativos mais simples, transparentes e seguros, que coletem apenas os dados realmente necessários. É um projeto que pretendo construir aos poucos, no meu ritmo, aprendendo e aperfeiçoando cada solução ao longo do caminho.
 
